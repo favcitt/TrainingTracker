@@ -133,6 +133,10 @@
 		<members>*</members>
 		<name>MatchingRules</name>
 	</types>
+    <types>
+		<members>*</members>
+		<name>PermissionSet</name>
+	</types>
 	<types>
 		<members>*</members>
 		<name>Profile</name>
