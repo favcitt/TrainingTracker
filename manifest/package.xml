@@ -61,8 +61,6 @@
 		<members>Event</members>
 		<members>Idea</members>
 		<members>Lead</members>
-		<members>LiveChatTranscript</members>
-		<members>LiveChatVisitor</members>
 		<members>Opportunity</members>
 		<members>OpportunityContactRole</members>
 		<members>OpportunityLineItem</members>
@@ -74,7 +72,6 @@
 		<members>Solution</members>
 		<members>Task</members>
 		<members>User</members>
-		<members>Lightning_Component_FLS_Configuration__mdt</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
@@ -204,6 +201,10 @@
 	<types>
 		<members>*</members>
 		<name>WorkflowTask</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>Flow</name>
 	</types>
 	<version>56.0</version>
 </Package>
