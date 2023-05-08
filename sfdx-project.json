@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "TrainingTracker",
+  "namespace": "",
+  "sfdcLoginUrl": "https://wise-hawk-susn1w-dev-ed.trailblaze.lightning.force.com",
+  "sourceApiVersion": "56.0"
+}
