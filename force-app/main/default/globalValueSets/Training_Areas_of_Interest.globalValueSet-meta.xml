@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Safety and Inspection</fullName>
+        <default>false</default>
+        <label>Safety and Inspection</label>
+    </customValue>
+    <customValue>
+        <fullName>Computers</fullName>
+        <default>false</default>
+        <label>Computers</label>
+    </customValue>
+    <customValue>
+        <fullName>Electrical</fullName>
+        <default>false</default>
+        <label>Electrical</label>
+    </customValue>
+    <customValue>
+        <fullName>Project Management</fullName>
+        <default>false</default>
+        <label>Project Management</label>
+    </customValue>
+    <customValue>
+        <fullName>General Contractor</fullName>
+        <default>false</default>
+        <label>General Contractor</label>
+    </customValue>
+    <masterLabel>Training Areas of Interest</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
