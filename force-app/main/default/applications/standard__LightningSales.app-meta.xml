@@ -24,6 +24,10 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-Case</tabs>
     <tabs>standard-Forecasting3</tabs>
+    <tabs>Training_Course__c</tabs>
+    <tabs>Training_Program__c</tabs>
+    <tabs>Training_Session__c</tabs>
+    <tabs>Training_Session_Attendee__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSales_UtilityBar</utilityBar>
 </CustomApplication>

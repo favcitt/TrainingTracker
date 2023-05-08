@@ -6,4 +6,8 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <tabs>standard-AppLauncher</tabs>
+    <tabs>Training_Course__c</tabs>
+    <tabs>Training_Program__c</tabs>
+    <tabs>Training_Session__c</tabs>
+    <tabs>Training_Session_Attendee__c</tabs>
 </CustomApplication>

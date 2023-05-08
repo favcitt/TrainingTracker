@@ -9,4 +9,8 @@
     <tabs>standard-Workspace</tabs>
     <tabs>standard-ContentSearch</tabs>
     <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>Training_Course__c</tabs>
+    <tabs>Training_Program__c</tabs>
+    <tabs>Training_Session__c</tabs>
+    <tabs>Training_Session_Attendee__c</tabs>
 </CustomApplication>

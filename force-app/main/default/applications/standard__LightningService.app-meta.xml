@@ -17,9 +17,25 @@
     <tabs>standard-Incident</tabs>
     <tabs>standard-Problem</tabs>
     <tabs>standard-ChangeRequest</tabs>
+    <tabs>Training_Course__c</tabs>
+    <tabs>Training_Program__c</tabs>
+    <tabs>Training_Session__c</tabs>
+    <tabs>Training_Session_Attendee__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Training_Course__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Training_Program__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Training_Session_Attendee__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Training_Session__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

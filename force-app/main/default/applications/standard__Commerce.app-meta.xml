@@ -6,14 +6,34 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Commerce</label>
     <navType>Console</navType>
+    <tabs>Training_Data</tabs>
     <tabs>standard-home</tabs>
     <tabs>standard-Pricebook2</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Order</tabs>
+    <tabs>Training_Course__c</tabs>
+    <tabs>Training_Program__c</tabs>
+    <tabs>Training_Session__c</tabs>
+    <tabs>Training_Session_Attendee__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>Training_Course__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Training_Data</tab>
+        </mappings>
+        <mappings>
+            <tab>Training_Program__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Training_Session_Attendee__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Training_Session__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
