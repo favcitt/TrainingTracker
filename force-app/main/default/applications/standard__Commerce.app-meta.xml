@@ -6,7 +6,6 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Commerce</label>
     <navType>Console</navType>
-    <tabs>Training_Data</tabs>
     <tabs>standard-home</tabs>
     <tabs>standard-Pricebook2</tabs>
     <tabs>standard-Account</tabs>
@@ -21,9 +20,6 @@
     <workspaceConfig>
         <mappings>
             <tab>Training_Course__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Training_Data</tab>
         </mappings>
         <mappings>
             <tab>Training_Program__c</tab>

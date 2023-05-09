@@ -13,6 +13,7 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>TrainingTracker</label>
     <navType>Standard</navType>
+    <tabs>Training_Data</tabs>
     <tabs>standard-Account</tabs>
     <tabs>Training_Course__c</tabs>
     <tabs>Training_Program__c</tabs>
