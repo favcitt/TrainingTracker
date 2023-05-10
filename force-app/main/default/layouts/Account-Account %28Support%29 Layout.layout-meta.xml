@@ -49,6 +49,10 @@
                 <behavior>Edit</behavior>
                 <field>Latitude__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Longitude__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
